@@ -5,7 +5,7 @@ int main() {
   std::string name;
   int age;
 
-  std::cout << "What is your dog's name and how old is your dog? Write each on their own line please.";
+  std::cout << "What is your dog's name and how old is your dog? Write each on their own line please.\n";
   std::cin >> name >> age;
 
   // First two years of a dogs life count as 21 human years.
